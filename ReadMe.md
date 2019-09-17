@@ -1,9 +1,12 @@
 # CSVExportApp
 
+
+###DB
+productstutorial
+###colleciton
+products
+###Document JSON format:
 ```
-DB: productstutorial
-colleciton: products
-record format:
 {
     "name" : "abc",
     "price" : 45,
