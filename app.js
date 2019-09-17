@@ -4,7 +4,6 @@ var express = require('express');
 var bodyParser = require('body-parser');
 var path = require('path');
 
-var product = require('./routes/product'); // Imports routes for the products
 // Require the controllers WHICH WE DID NOT CREATE YET!!
 var product_controller = require('./controllers/product');
 var app = express();
